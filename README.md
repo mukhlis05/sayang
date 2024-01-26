@@ -1,0 +1,2 @@
+# sayang
+repo untuk belajar 
